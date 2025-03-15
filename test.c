@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     printf("Naman\n");
+    scanf("%d");
     return 0;
 }
-
-
-
