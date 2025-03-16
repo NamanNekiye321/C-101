@@ -9,14 +9,18 @@
 int main()
 {
 
-    int value1, value2, sum;
+    // int ;
+    // double x;
 
-    value1 = 50;
-    value2 = 25;
-    sum = value1 + value2;
+    // printf("Enter a value:\n");
+    // scanf("%lf",&x);
 
-    printf("the sum of %i and %i is %i\n", value1, value2, sum);
+    // printf("The value entered: %lf\n",x);
+
+    char name[] = "naman";
+
+    printf("my name is %s\n", name);
 
     return 0;
+    
 }
-
