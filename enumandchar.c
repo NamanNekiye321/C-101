@@ -28,10 +28,11 @@ int main() {
 
 
     char asci = 66;
+    
     printf("value of it is %c\n", asci);
 
 
-
+    
 
     enum gender {male, female};
     enum gender myGender = male;
@@ -47,6 +48,8 @@ int main() {
     char myCharacter = '\n';
 
     printf("%c", myCharacter);
+
+    printf("Hello World");
 
 
 
