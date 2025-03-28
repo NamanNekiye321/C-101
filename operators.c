@@ -1,11 +1,14 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
+
+    int jason;
+
+    int a = 10;
     
-    
-
-
-
+    printf("%d\n", --a);
+    printf("%d\n", a);
 
     return 0;
 }
